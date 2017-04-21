@@ -9,7 +9,7 @@
 		"express": "4.13.x",
 		"cfenv": "1.0.x"
 		"body-parser": "*",
-		 "date-utils": "*"
+		"date-utils": "*"
 	},
 	"repository": {},
 	"engines": {
