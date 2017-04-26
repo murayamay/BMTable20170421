@@ -6,3 +6,5 @@ applications:
   name: BMTable20170421
   host: BMTable20170421
   disk_quota: 1024M
+  services:
+    - Cloudant-NoSQL-DB-b1
